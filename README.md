@@ -1,4 +1,4 @@
-# MediSync Pro - Enterprise Hospital Management System (HMS)
+# ClinixOS - Enterprise Hospital Management System (HMS)
 
 MediSync Pro is a comprehensive, web-based software solution engineered to streamline the administrative, financial, and clinical operations of modern healthcare facilities. By digitizing and automating critical workflows—such as patient onboarding, clinical consultations, medical scheduling, and billing—the system maximizes operational efficiency, elevates patient care standards, and establishes seamless communication channels across medical staff[cite: 3]. 
 
